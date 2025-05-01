@@ -50,7 +50,7 @@
 - **Description**: Landing page for internships
 - **Repository**: https://github.com/devBazylev/intership
 
-#### [Cinemaddict](https://devbazylev.github.io/intership/)
+#### [Films](https://devbazylev.github.io/films/)
 - **Technologies**: Object-Oriented Programming
 - **Description**: Single page application
 - **Repository**: https://github.com/devBazylev/films
