@@ -50,12 +50,14 @@
 - **Description**: A website for finding travel companions
 - **Repository**: https://github.com/devBazylev/pognali
 
+
 #### Films - [Live demo](https://devbazylev.github.io/films/)
 - **Technologies**: JavaScript
 - **Description**: Object-Oriented Programming
 - **Repository**: https://github.com/devBazylev/films
 
-- #### Intership - [Live demo](https://devbazylev.github.io/intership/)
+
+ #### Intership - [Live demo](https://devbazylev.github.io/intership/)
 - **Technologies**: JavaScript, CSS, HTML
 - **Description**: Landing page for internships
 - **Repository**: https://github.com/devBazylev/intership
