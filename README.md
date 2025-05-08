@@ -37,10 +37,8 @@
 
 ### Backend-End Development (Just for fun, at least yet)
 ![NodeJS](https://img.shields.io/badge/NodeJS-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=FFFFFF)
 
 ### Other
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![htmlacademy](https://img.shields.io/badge/Выпускник_HTML_Academy-302683?style=for-the-badge&logo=htmlacademy&logoColor=white)
 
 ### Pet projects I am proud of
