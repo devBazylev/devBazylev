@@ -28,7 +28,6 @@
 ![webpack](https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
 ![vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![BEM](https://img.shields.io/badge/БЭМ-000000?style=for-the-badge&logo=bem&logoColor=white)
-![microfrontends](https://img.shields.io/badge/Microfrontends-1C3664?style=for-the-badge)
 
 ### Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vscode&logoColor=white)
