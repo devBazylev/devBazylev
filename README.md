@@ -37,9 +37,6 @@
 ### Backend-End Development (Just for fun, at least yet)
 ![NodeJS](https://img.shields.io/badge/NodeJS-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### Other
-![htmlacademy](https://img.shields.io/badge/Выпускник_HTML_Academy-302683?style=for-the-badge&logo=htmlacademy&logoColor=white)
-
 ### Pet projects I am proud of
 
 #### Pognali - [Live demo](https://devbazylev.github.io/pognali/)
@@ -59,7 +56,7 @@
 - **Description**: Landing page for internships
 - **Repository**: https://github.com/devBazylev/intership
 
-### Повышение квалификации, курсы
+### Professional development, courses
 **HTML Academy**:  
 1. HTML and CSS. Professional website layout and design
 2. HTML and CSS. Responsive layout and automation
