@@ -2,7 +2,6 @@
 
 - 🔭 I am **a front-end developer** with experience in creating modern and responsive web applications.
 - 🌱 I am actively interested in web application development and am studying modern approaches and technologies.
-- ⚡ Fun fact: I used to do beautiful renovations in apartments, and now I create beautiful websites.
 - 📫 How to reach me: 
 <p align='center'>
    <a href="https://t.me/Aleksey_Bazylev">
