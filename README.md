@@ -50,11 +50,6 @@
 - **Repository**: https://github.com/devBazylev/films
 
 
- #### Intership - [Live demo](https://devbazylev.github.io/intership/)
-- **Technologies**: JavaScript, CSS, HTML
-- **Description**: Landing page for internships
-- **Repository**: https://github.com/devBazylev/intership
-
 ### Professional development, courses
 **HTML Academy**:  
 1. HTML and CSS. Professional website layout and design
