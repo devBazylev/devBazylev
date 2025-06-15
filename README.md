@@ -38,6 +38,12 @@
 
 ### Pet projects I am proud of
 
+#### Cities
+- **Technologies**: React, Typescript
+- **Description**: A website for searching hotels
+- **Repository**: https://github.com/devBazylev/cities
+
+
 #### Pognali - [Live demo](https://devbazylev.github.io/pognali/)
 - **Technologies**: JavaScript, CSS, PUG
 - **Description**: A website for finding travel companions
