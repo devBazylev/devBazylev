@@ -40,7 +40,7 @@
 
 #### Cities - [Live demo](https://devbazylev.github.io/cities/)
 - **Technologies**: React, Typescript
-- **Description**: A website for searching hotels
+- **Description**: A website for searching hotels (desktop only)
 - **Repository**: https://github.com/devBazylev/cities
 
 
