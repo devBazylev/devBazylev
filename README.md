@@ -38,7 +38,7 @@
 
 ### Pet projects I am proud of
 
-#### Cities [Live demo](https://devbazylev.github.io/cities/)
+#### Cities - [Live demo](https://devbazylev.github.io/cities/)
 - **Technologies**: React, Typescript
 - **Description**: A website for searching hotels
 - **Repository**: https://github.com/devBazylev/cities
