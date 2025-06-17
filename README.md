@@ -38,19 +38,19 @@
 
 ### Pet projects I am proud of
 
-#### Cities - [Live demo](https://devbazylev.github.io/cities/)
+#### Cities - [LIVE DEMO](https://devbazylev.github.io/cities/)
 - **Technologies**: React, Typescript
 - **Description**: A website for searching hotels (desktop only)
 - **Repository**: https://github.com/devBazylev/cities
 
 
-#### Pognali - [Live demo](https://devbazylev.github.io/pognali/)
+#### Pognali - [LIVE DEMO](https://devbazylev.github.io/pognali/)
 - **Technologies**: JavaScript, CSS, PUG
 - **Description**: A website for finding travel companions
 - **Repository**: https://github.com/devBazylev/pognali
 
 
-#### Films - [Live demo](https://devbazylev.github.io/films/)
+#### Films - [LIVE DEMO](https://devbazylev.github.io/films/)
 - **Technologies**: JavaScript
 - **Description**: Object-Oriented Programming
 - **Repository**: https://github.com/devBazylev/films
