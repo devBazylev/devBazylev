@@ -39,12 +39,12 @@
 ### Pet projects I am proud of
 
 #### Magic - [LIVE DEMO](https://devbazylev.github.io/magic/)
-- **Technologies**: React, typescript, redux, axios, sass
-- **Description**: A web application for users interested in fantasy
+- **Technologies**: React, typescript, redux, react-router, axios, sass
+- **Description**: A web application for users interested in fantasy. https://mokky.dev/ is used for mock backend
 - **Repository**: https://github.com/devBazylev/magic
 
 #### Cities - [LIVE DEMO](https://devbazylev.github.io/cities/)
-- **Technologies**: React, typescript, redux, axios, leaflet
+- **Technologies**: React, typescript, redux, react-router, axios, leaflet
 - **Description**: A web application for searching hotels (desktop only)
 - **Repository**: https://github.com/devBazylev/cities
 
