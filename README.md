@@ -38,18 +38,21 @@
 
 ### Pet projects I am proud of
 
-#### Magic - [LIVE DEMO](https://devbazylev.github.io/magic/)
+#### Magic - [LIVE DEMO(click on the link)](https://devbazylev.github.io/magic/)
 - **Technologies**: React, typescript, redux, react-router, axios, sass
 - **Description**: A web application for users interested in fantasy. https://mokky.dev/ is used for mock backend
+- **Status**: In progress
 - **Repository**: https://github.com/devBazylev/magic
 
-#### Cities - [LIVE DEMO](https://devbazylev.github.io/cities/)
+#### Cities - [LIVE DEMO(click on the link)](https://devbazylev.github.io/cities/)
 - **Technologies**: React, typescript, redux, react-router, axios, leaflet
 - **Description**: A web application for searching hotels (desktop only)
+- **Status**: Finished
 - **Repository**: https://github.com/devBazylev/cities
 
 
-#### Pognali - [LIVE DEMO](https://devbazylev.github.io/pognali/)
+#### Pognali - [LIVE DEMO(click on the link)](https://devbazylev.github.io/pognali/)
 - **Technologies**: JavaScript, CSS, PUG
 - **Description**: A website for finding travel companions
+- **Status**: In progress
 - **Repository**: https://github.com/devBazylev/pognali
