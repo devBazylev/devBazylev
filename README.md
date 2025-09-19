@@ -70,19 +70,8 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-2496ED?style=for-the-badge&logo=ci/cd&logoColor=white)
 
-## 🚀 Featured Projects
+### Pet project I am proud of
+#### Magic - [LIVE DEMO(click on the link)](https://devbazylev.github.io/magic/)
 
-### Magic - Fantasy Web Application
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://devbazylev.github.io/magic/)
-
-A modern web application for fantasy enthusiasts built with React ecosystem.
-
-**Tech Stack:** React, TypeScript, Redux, React Router, Axios, Sass
-
-**Features:**
-- Interactive fantasy-themed interface
-- Mock backend integration via https://mokky.dev/
-- Responsive design and smooth animations
-- Dynamic content loading and state management
-
-**Description:** A comprehensive web application designed for users interested in fantasy content. The application utilizes a mock backend service for data management, with all content (except images) being dynamically loaded from the server.
+- **Technologies**: React, typescript, redux, react-router, axios, sass
+- **Description**: A web application for users interested in fantasy. https://mokky.dev/ is used for mock backend. All data except images come from this server
