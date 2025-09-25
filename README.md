@@ -71,7 +71,7 @@
 ![CI/CD](https://img.shields.io/badge/CI/CD-2496ED?style=for-the-badge&logo=ci/cd&logoColor=white)
 
 ### Pet project I am proud of
-#### Magic - [LIVE DEMO(click on the link)](https://magic-cfv9pi7y2-devbazylevs-projects.vercel.app/)
+#### Magic - [LIVE DEMO(click on the link)](https://magic-six-nu.vercel.app/)
 
 - **Technologies**: React, typescript, redux, react-router, axios, sass
 - **Description**: A web application for users interested in fantasy. https://mokky.dev/ is used for mock backend. All data except images come from this server
