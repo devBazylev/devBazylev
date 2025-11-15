@@ -60,12 +60,6 @@
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### AI & Machine Learning
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
-
 ### DevOps & Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -96,11 +90,13 @@
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 🤖 AI Expertise
+### AI & Machine Learning
 
-- **OpenAI API Integration**: Опыт работы с OpenAI API для интеграции AI-возможностей в веб-приложения
-- **Prompt Engineering**: Создание эффективных промптов для получения оптимальных результатов от языковых моделей
-- **AI в веб-приложениях**: Интеграция AI-функциональности в современные веб-приложения для улучшения пользовательского опыта
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+
+Интеграция AI-возможностей в веб-приложения
 
 ## 🚀 Pet Project I am proud of
 
